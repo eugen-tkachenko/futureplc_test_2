@@ -10,7 +10,8 @@ Log the output to the console and a log file.
 
 ## Usage
 
-To run the script - 
+To run the script:
+
 ```node FizzBuzz++.js```
 
 ## Details
